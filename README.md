@@ -3,10 +3,10 @@ A Java shell program that generates a memorable password in the form word-word-w
 
 TODO:
 - Create install packages
--- Debian
--- Ubuntu
--- RHEL
--- CentOS
--- Fedora
--- Arch
--- *BSD
+- Debian
+- Ubuntu
+- RHEL
+- CentOS
+- Fedora
+- Arch
+- *BSD

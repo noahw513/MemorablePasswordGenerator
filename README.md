@@ -13,3 +13,5 @@ TODO:
 - Fedora
 - Arch
 - *BSD
+
+(2) Abstract core logic into an object or class for easier reuse.

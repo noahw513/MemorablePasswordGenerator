@@ -12,7 +12,7 @@ java -jar memorablePasswordGenerator.jar -c 2
 java -jar memorablePasswordGenerator.jar 
 - Will return word-word-word
 
-java -jar memorablePasswordGenerator.jar
+java -jar memorablePasswordGenerator.jar -s
 - Will return word-word-word-specChar
 
 TODO:

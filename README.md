@@ -4,13 +4,15 @@ A Java shell program that generates a memorable password in the form word-word-w
 USAGE:
 java -jar memorablePasswordGenerator.jar -s -c 5
 - Will return word-word-word-word-word-specChar
+
 java -jar memorablePasswordGenerator.jar -c 2
 - Will return word-word
+
 java -jar memorablePasswordGenerator.jar 
 - Will return word-word-word
+
 java -jar memorablePasswordGenerator.jar
 - Will return word-word-word-specChar
-
 
 TODO:
 

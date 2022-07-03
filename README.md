@@ -19,12 +19,5 @@ java -jar memorablePasswordGenerator.jar
 TODO:
 
 (1) Create install packages:
-- Debian
-- Ubuntu
-- RHEL
-- CentOS
-- Fedora
-- Arch
-- *BSD
-
-(2) Abstract core logic into an object or class for easier reuse.
+- rpm
+- deb
